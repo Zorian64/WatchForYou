@@ -1,0 +1,47 @@
+html {
+	font-size: 100%;
+}
+
+body {
+	width: 1200px;
+	/* 	border: 5px solid red; */
+	margin: 0 auto;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.header {
+	/* 	border: 5px solid red; */
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	padding-top: 20px;
+	
+}
+
+.menu {
+	/* 	border:5px solid red; */
+	height: 130px;
+	background: #ffffff;
+	width: 100%;
+	padding-top: 20px;
+}
+.body {
+/* 		border: 5px solid red; */
+/* 	background: #f7f0bb; */
+	width: 100%;
+	height: auto;
+
+/* 	position: relative; */
+
+	
+}
+.footer {
+	/* 	border: 5px solid red; */
+	height: 100px;
+	width: 100%;
+	clear: both;
+	/* 	position: relative; */
+	border-top: 4px solid #6b6b6b;
+	margin: 0;
+}
